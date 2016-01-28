@@ -1,0 +1,28 @@
+name: J. Monroe Studios
+favicon: null
+layout_spectrum: 0.09372519934549928
+typography_spectrum: 0.7135514367837459
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.665943218395114
+  lightness: 0.9083469090983272
+  saturation: 0.2907915092073381
+  rhythmicContrast: 0.799429475562647
+purpose: []
