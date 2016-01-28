@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artistic Lifestyle photography]]></title>
         <description><![CDATA[Artistic Lifestyle photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-monroe-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 16:22:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 16:32:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-monroe-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d799711-7c8b-4936-92d0-1cc4e5cc11ff.jpg">]]></description>
+            <link>https://thegrid.ai/j-monroe-studios/49278555-4a50-420b-9871-8aba81a5b30e/index.html</link>
+            <guid isPermaLink="false">49278555-4a50-420b-9871-8aba81a5b30e</guid>
+            <pubDate>Thu, 28 Jan 2016 16:31:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"With open eyes and minds we all wander into the darkness of unknowing,  yet there are those who look brightly into the darkness to expose a future full of happiness and adventure.  Let those who wander in fear of what might come, change there light to shine bright.  For only those who welcome the unknown find true happiness and enlightenment."              -JMW</p>]]></description>
-            <link>undefined77b23760-24aa-43ad-ab1d-ba061ca0c23c/index.html</link>
+            <link>https://thegrid.ai/j-monroe-studios/77b23760-24aa-43ad-ab1d-ba061ca0c23c/index.html</link>
             <guid isPermaLink="false">77b23760-24aa-43ad-ab1d-ba061ca0c23c</guid>
             <pubDate>Thu, 28 Jan 2016 16:06:48 GMT</pubDate>
         </item>
