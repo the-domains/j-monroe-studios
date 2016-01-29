@@ -1,41 +1,41 @@
-name: J. Monroe Studios
-favicon: null
-layout_spectrum: 0.70091
-typography_spectrum: 0.75333
-title: Artistic Lifestyle photography
+typography_spectrum: 0.8829787
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
+title: Artistic Lifestyle photography
+purpose: []
 color:
+  saturation: 0.6680851
+  brandStrength: 1
+  rhythmicContrast: 0.4510638
   brandColors:
     - '#0D0502'
     - '#39312F'
     - '#D8A387'
     - '#665D5A'
     - '#928986'
-  brandStrength: 0.75
   lightness: 0.5808511
-  saturation: 0.6680851
-  rhythmicContrast: 0.4510638
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: J. Monroe Studios
