@@ -1,6 +1,6 @@
 name: J. Monroe Studios
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.70091
 typography_spectrum: 0.8829787
 title: Artistic Lifestyle photography
 collections:
@@ -34,7 +34,7 @@ color:
     - '#D8A387'
     - '#665D5A'
     - '#928986'
-  brandStrength: 0.875
+  brandStrength: 0.75
   lightness: 0.5808511
   saturation: 0.6680851
   rhythmicContrast: 0.4510638
